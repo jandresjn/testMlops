@@ -1,0 +1,5 @@
+$schema: https://azuremlschemas.azureedge.net/latest/data.schema.json
+name: cloud-folder-diabetes
+description: Data asset created from folder in cloud.
+type: uri_folder
+path: azureml://subscriptions/b4220ec3-216d-46c5-bdb6-671c1fbb4a51/resourcegroups/rg-dp100-labs/workspaces/mlw-dp100-labs/datastores/workspaceworkingdirectory/paths/Users/jorge_and.jaramillo/learningMLops/testMlops/experimentation/data/
