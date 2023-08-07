@@ -3,7 +3,7 @@ title: Online Hosted Instructions
 permalink: index.html
 layout: home
 ---
-
+Jorge Add
 # MLOps Challenges
 
 This repository contains hands-on challenges for end-to-end machine learning operations (MLOps) with Azure Machine Learning.
